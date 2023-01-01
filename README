@@ -1,0 +1,11 @@
+En este juego se le dara una pista la cual es una frase,
+con la cual lo ayudara a adivinar una palabra referente 
+a dicha frase.
+En cada intento debe ingresar una letra referente a dicha
+palabra la cual se vera reflejada en acierto o error.
+Por cada error cometido se le restara un intento, cada 
+palabra tiene su número de intentos el cual vera el 
+panel de juego.
+Puede terminar el juego en cualquier momento escribiendo exit,
+o continuar hasta el final.
+
